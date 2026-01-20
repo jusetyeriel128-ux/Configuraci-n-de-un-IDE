@@ -1,4 +1,4 @@
-###REPORTE DE CONFIGURACION DEL IDE VISUAL STUDIO CORE
+##REPORTE DE CONFIGURACION DEL IDE VISUAL STUDIO CODE
 
 **Alumno:** Jimenez Lagunas Juset Yeriel
 
@@ -91,5 +91,6 @@ Visual Studio Code se ha demostrado como una herramienta altamente adecuada para
 El proceso de instalación resultó ser sencillo y bien estructurado, con opciones que se adaptan a diferentes necesidades y sistemas operativos. La configuración inicial, incluyendo ajustes básicos de visualización y la instalación de extensiones específicas como Python, Code Runner y Spanish Language Pack, optimiza significativamente el flujo de trabajo al trabajar con lenguajes de programación de la materia.
 
 Un entorno de desarrollo integrado bien configurado no solo reduce el tiempo dedicado a tareas auxiliares, sino que también minimiza errores al concentrar todas las herramientas necesarias (editor, depurador, intérprete) en un solo espacio organizado. Además, su compatibilidad con Git y plataformas como GitHub facilita el control de versiones y la correcta entrega de proyectos académicos.
+
 
 
